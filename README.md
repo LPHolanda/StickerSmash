@@ -1,6 +1,8 @@
 # Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app). 
+
+This project uploads an image on the app, inserts an emoji on it, uses gestures to scale and move the emoji, takes a screenshot and save the image on device's media library. 
 
 ## Get started
 
